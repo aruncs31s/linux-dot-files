@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="dark-mode" type="bool" value="true"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=683;y=21"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="icon-size" type="uint" value="0"/>
+      <property name="size" type="uint" value="25"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="7"/>
+        <value type="int" value="16"/>
+        <value type="int" value="15"/>
+        <value type="int" value="30"/>
+        <value type="int" value="8"/>
+        <value type="int" value="1"/>
+        <value type="int" value="6"/>
+        <value type="int" value="17"/>
+        <value type="int" value="28"/>
+        <value type="int" value="12"/>
+        <value type="int" value="18"/>
+        <value type="int" value="25"/>
+        <value type="int" value="4"/>
+        <value type="int" value="5"/>
+        <value type="int" value="9"/>
+        <value type="int" value="10"/>
+      </property>
+      <property name="background-style" type="uint" value="1"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.039216000000000001"/>
+        <value type="double" value="0.043137000000000002"/>
+        <value type="double" value="0.066667000000000004"/>
+        <value type="double" value="1"/>
+      </property>
+      <property name="background-image" type="string" value="file:///home/aruncs/Pictures/wallpaper.jpg"/>
+      <property name="enable-struts" type="bool" value="true"/>
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="enter-opacity" type="uint" value="67"/>
+      <property name="leave-opacity" type="uint" value="67"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-4" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="wrap-workspaces" type="bool" value="false"/>
+      <property name="miniature-view" type="bool" value="false"/>
+    </property>
+    <property name="plugin-5" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-6" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="known-legacy-items" type="array">
+        <value type="string" value="ulauncher"/>
+        <value type="string" value="ethernet network connection “wired connection 2” active"/>
+        <value type="string" value="no network connection"/>
+        <value type="string" value="clipman"/>
+        <value type="string" value="veracrypt"/>
+        <value type="string" value="hexchat"/>
+        <value type="string" value="notes"/>
+        <value type="string" value="cpupower-gui"/>
+        <value type="string" value="xfce terminal"/>
+        <value type="string" value="networkmanager applet"/>
+      </property>
+      <property name="known-items" type="array">
+        <value type="string" value="qBittorrent"/>
+        <value type="string" value="ulauncher"/>
+        <value type="string" value="SiriKali"/>
+        <value type="string" value="TelegramDesktop"/>
+        <value type="string" value="vlc"/>
+        <value type="string" value="blueman"/>
+      </property>
+    </property>
+    <property name="plugin-8" type="string" value="pulseaudio">
+      <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
+      <property name="show-notifications" type="bool" value="true"/>
+      <property name="known-players" type="string" value="Brave;org.telegram.desktop;spotify;vlc"/>
+      <property name="multimedia-keys-to-all" type="bool" value="true"/>
+    </property>
+    <property name="plugin-9" type="string" value="power-manager-plugin"/>
+    <property name="plugin-10" type="string" value="notification-plugin"/>
+    <property name="plugin-12" type="string" value="clock">
+      <property name="digital-time-format" type="string" value="%l:%M:%S %P"/>
+      <property name="digital-time-font" type="string" value="Sans 9"/>
+      <property name="digital-layout" type="uint" value="1"/>
+      <property name="mode" type="uint" value="3"/>
+      <property name="binary-mode" type="uint" value="2"/>
+      <property name="show-seconds" type="bool" value="false"/>
+      <property name="show-inactive" type="bool" value="false"/>
+      <property name="show-grid" type="bool" value="false"/>
+      <property name="fuzziness" type="uint" value="0"/>
+      <property name="tooltip-format" type="string" value="%A %d %B %Y"/>
+    </property>
+    <property name="plugin-7" type="string" value="whiskermenu">
+      <property name="button-title" type="string" value="Menu"/>
+      <property name="button-icon" type="string" value="archcraft"/>
+      <property name="show-button-title" type="bool" value="false"/>
+      <property name="view-mode" type="int" value="1"/>
+      <property name="sort-categories" type="bool" value="false"/>
+      <property name="favorites-in-recent" type="bool" value="true"/>
+      <property name="position-search-alternate" type="bool" value="true"/>
+      <property name="position-commands-alternate" type="bool" value="true"/>
+      <property name="position-categories-alternate" type="bool" value="true"/>
+      <property name="command-switchuser" type="string" value="gdmflexiserver"/>
+      <property name="favorites" type="array">
+        <value type="string" value="firefox.desktop"/>
+        <value type="string" value="xfce4-file-manager.desktop"/>
+        <value type="string" value="xfce4-terminal-emulator.desktop"/>
+      </property>
+      <property name="recent" type="array">
+        <value type="string" value="brave-mjoklplbddabcmpepnokjaffbmgbkkgg-Default.desktop"/>
+        <value type="string" value="xfce-wm-settings.desktop"/>
+        <value type="string" value="xfce4-taskmanager.desktop"/>
+        <value type="string" value="xfce-keyboard-settings.desktop"/>
+        <value type="string" value="brave-jckaldkomadaenmmgladeopgmfbahfjm-Default.desktop"/>
+        <value type="string" value="xfce-backdrop-settings.desktop"/>
+        <value type="string" value="xfce-ui-settings.desktop"/>
+        <value type="string" value="xfce-wmtweaks-settings.desktop"/>
+        <value type="string" value="xfce-session-settings.desktop"/>
+        <value type="string" value="xfce4-screensaver-preferences.desktop"/>
+      </property>
+      <property name="launcher-show-name" type="bool" value="true"/>
+      <property name="launcher-icon-size" type="int" value="2"/>
+      <property name="position-categories-horizontal" type="bool" value="false"/>
+      <property name="position-profile-alternate" type="bool" value="false"/>
+      <property name="hover-switch-category" type="bool" value="false"/>
+    </property>
+    <property name="plugin-1" type="string" value="xfce4-mpc-plugin"/>
+    <property name="plugin-16" type="string" value="windowmenu"/>
+    <property name="plugin-15" type="string" value="xfce4-verve-plugin"/>
+    <property name="plugin-17" type="string" value="xfce4-sensors-plugin"/>
+    <property name="plugin-25" type="string" value="separator">
+      <property name="expand" type="bool" value="false"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-28" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+      <property name="expand" type="bool" value="true"/>
+    </property>
+    <property name="plugin-30" type="string" value="separator">
+      <property name="expand" type="bool" value="false"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="clipman" type="empty">
+      <property name="tweaks" type="empty">
+        <property name="never-confirm-history-clear" type="bool" value="true"/>
+      </property>
+    </property>
+    <property name="plugin-18" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+  </property>
+</channel>
