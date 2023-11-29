@@ -1,0 +1,9 @@
+2023/11/28-17:53:56.423 be6 Reusing MANIFEST /home/aruncs/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/28-17:53:56.424 be6 Recovering log #42
+2023/11/28-17:53:56.429 be6 Reusing old log /home/aruncs/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000042.log 
+2023/11/28-17:53:57.032 be6 Compacting 1@1 + 1@2 files
+2023/11/28-17:53:57.064 be6 Generated table #45@1: 433 keys, 41345 bytes
+2023/11/28-17:53:57.064 be6 Compacted 1@1 + 1@2 files => 41345 bytes
+2023/11/28-17:53:57.066 be6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/28-17:53:57.066 be6 Delete type=2 #43
+2023/11/28-17:53:57.066 be6 Delete type=2 #40

@@ -1,0 +1,24 @@
+2023/11/28-17:49:36.176 be7 Reusing MANIFEST /home/aruncs/.config/thorium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/11/28-17:49:36.177 be7 Recovering log #79
+2023/11/28-17:49:36.182 be7 Reusing old log /home/aruncs/.config/thorium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000079.log 
+2023/11/28-17:49:56.046 be7 Level-0 table #83: started
+2023/11/28-17:49:56.075 be7 Level-0 table #83: 2044784 bytes OK
+2023/11/28-17:49:56.077 be7 Delete type=0 #79
+2023/11/28-17:52:08.753 be7 Level-0 table #85: started
+2023/11/28-17:52:08.832 be7 Level-0 table #85: 3200342 bytes OK
+2023/11/28-17:52:08.834 be7 Delete type=0 #82
+2023/11/28-17:52:08.835 be7 Compacting 4@0 + 4@1 files
+2023/11/28-17:52:08.896 be7 Generated table #86@0: 13 keys, 2597535 bytes
+2023/11/28-17:52:08.954 be7 Generated table #87@0: 10 keys, 2656721 bytes
+2023/11/28-17:52:09.022 be7 Generated table #88@0: 9 keys, 2629238 bytes
+2023/11/28-17:52:09.025 be7 Generated table #89@0: 10 keys, 131733 bytes
+2023/11/28-17:52:09.025 be7 Compacted 4@0 + 4@1 files => 8015227 bytes
+2023/11/28-17:52:09.027 be7 compacted to: files[ 0 4 1 0 0 0 0 ]
+2023/11/28-17:52:09.027 be7 Delete type=2 #83
+2023/11/28-17:52:09.027 be7 Delete type=2 #75
+2023/11/28-17:52:09.027 be7 Delete type=2 #72
+2023/11/28-17:52:09.027 be7 Delete type=2 #74
+2023/11/28-17:52:09.027 be7 Delete type=2 #73
+2023/11/28-17:52:09.027 be7 Delete type=2 #78
+2023/11/28-17:52:09.027 be7 Delete type=2 #85
+2023/11/28-17:52:09.027 be7 Delete type=2 #80

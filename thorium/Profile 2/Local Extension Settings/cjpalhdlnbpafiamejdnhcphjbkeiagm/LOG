@@ -1,0 +1,14 @@
+2023/11/25-20:54:43.931 485 Creating DB /home/aruncs/.config/thorium/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2023/11/25-20:54:43.935 485 Reusing MANIFEST /home/aruncs/.config/thorium/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/11/25-20:54:45.395 487 Level-0 table #5: started
+2023/11/25-20:54:45.427 487 Level-0 table #5: 1856309 bytes OK
+2023/11/25-20:54:45.431 487 Delete type=0 #3
+2023/11/25-20:55:18.058 494 Level-0 table #7: started
+2023/11/25-20:55:18.093 494 Level-0 table #7: 1718029 bytes OK
+2023/11/25-20:55:18.094 494 Delete type=0 #4
+2023/11/25-20:55:25.943 487 Level-0 table #9: started
+2023/11/25-20:55:26.042 487 Level-0 table #9: 1957671 bytes OK
+2023/11/25-20:55:26.044 487 Delete type=0 #6
+2023/11/25-20:55:55.505 487 Level-0 table #11: started
+2023/11/25-20:55:55.612 487 Level-0 table #11: 1796165 bytes OK
+2023/11/25-20:55:55.616 487 Delete type=0 #8

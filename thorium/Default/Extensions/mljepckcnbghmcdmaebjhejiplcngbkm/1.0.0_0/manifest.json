@@ -1,0 +1,25 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [  ],
+      "exclude_matches": [  ],
+      "js": [ "contentScript.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "description": "Hides scrollbar on all pages.",
+   "incognito": "spanning",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzNIrAcrbs/TGc/ZtThW1F1TsLyUB9BnpNH8n6ibJd3tR5iOpPsxV8n6t8GBu/aEvsGNKtTj2E8yvKtc8C4bI3pu3jBOhOSs4QpH/6ZJIWqnvkXH9DAuNXAg5A3vbuvRDryj9BgRdfaGetWFk3oCR4jfUIrgANi/XknfjQndg4fa9jx4HAH1bJGSmd2QTOxUzybeRHZdEwMSxj4VDQmETVlfxAod/JLPPGSz29Mr55glwLjp0UOfwEgtYoRnirEWKo15NCpTViSijFf4dVI0UN210lgUuQQVZBZA/zr1jBvGjBVYhgzgzffxKkVWzeRthzFjTQuYm9F9I9irCnKHu9QIDAQAB",
+   "manifest_version": 2,
+   "name": "Hide Scrollbar",
+   "permissions": [ "\u003Call_urls>" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0"
+}

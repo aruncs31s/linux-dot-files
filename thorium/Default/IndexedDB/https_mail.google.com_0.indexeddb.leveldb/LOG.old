@@ -1,0 +1,6 @@
+2023/11/19-11:51:39.171 2bc14 Creating DB /home/aruncs/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2023/11/19-11:51:39.183 2bc14 Reusing MANIFEST /home/aruncs/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/19-14:24:00.652 2bc15 Level-0 table #5: started
+2023/11/19-14:24:00.654 2bc15 Level-0 table #5: 2092 bytes OK
+2023/11/19-14:24:00.655 2bc15 Delete type=0 #3
+2023/11/19-14:24:00.655 2bc15 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
