@@ -1,8 +1,30 @@
+# Expanding windows
+super + control + {h,l,j,k}
+	bspc node -z {left -20 0,right  +20 0,top 0 -20,bottom 0 20}
+
+
+
+XF86RFKill 
+	systemctl hibernate
+
+super + F1 
+		alacritty
+
+super + shift + x
+		betterlockscreen --suspend
+
+super + shift + w
+	thorium-browser
+
+super + e 
+	thunar
+
 ## Copyright (C) 2020-2023 Aditya Shakya <adi1090x@gmail.com>
 ##
 ## Keybindings config for Archcraft's BSPWM
 
 ##---------- Keybindings for bspwm ----------##
+
 
 # Terminal (alacritty)
 super + Return
@@ -26,7 +48,9 @@ super + {h,j,k,l}
     bspc node -f {west,south,north,east}
 # Rofi App Launcher
 super + d
-	rofi_launcher
+	dmenu_run
+
+##	rofi_launcher
 
 # Rofi Run
 alt + F2
@@ -140,13 +164,6 @@ super + {_,shift + }{Left,Down,Up,Right}
 # Move floating windows
 super + alt + shift + {Left,Down,Up,Right}
 	bspc node -v {-20 0,0 20,0 -20,20 0}
-
-# Expanding windows
-super + control + {Left,Right,Up,Down}
-	bspc node -z {left -20 0,right 20 0,top 0 -20,bottom 0 20}
-# Shrinking windows
-super + alt + {Left,Right,Up,Down}
-	bspc node -z {left 20 0,right -20 0,top 0 20,bottom 0 -20}
 
 # Split horizontal, vertical or cancel
 super + {g,v,q}
