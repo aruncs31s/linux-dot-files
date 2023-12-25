@@ -4,3 +4,6 @@
 [submodule "archCraft/nvim"]
 	path = archCraft/nvim
 	url = https://github.com/AstroNvim/AstroNvim
+[submodule "archCraft/nvim/lua/user"]
+	path = archCraft/nvim/lua/user
+	url = https://github.com/aruncs31s/astronvim_config
