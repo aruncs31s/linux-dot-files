@@ -1,3 +1,6 @@
-2023/11/26-11:30:16.528 43e Reusing MANIFEST /home/aruncs/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/26-11:30:16.529 43e Recovering log #4
-2023/11/26-11:30:16.529 43e Reusing old log /home/aruncs/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2023/12/22-20:02:42.013 61ca3 Reusing MANIFEST /home/aruncs/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/22-20:02:42.014 61ca3 Recovering log #11
+2023/12/22-20:02:42.078 61ca3 Reusing old log /home/aruncs/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
+2023/12/22-20:03:17.087 61ca4 Level-0 table #17: started
+2023/12/22-20:03:17.130 61ca4 Level-0 table #17: 2702346 bytes OK
+2023/12/22-20:03:17.135 61ca4 Delete type=0 #11

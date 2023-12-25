@@ -1,3 +1,3 @@
-2023/11/28-17:49:34.989 bf2 Reusing MANIFEST /home/aruncs/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/11/28-17:49:34.993 bf2 Recovering log #31
-2023/11/28-17:49:34.994 bf2 Reusing old log /home/aruncs/.config/thorium/Default/Sync Data/LevelDB/000031.log 
+2023/12/25-23:03:09.650 312d Reusing MANIFEST /home/aruncs/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/12/25-23:03:09.650 312d Recovering log #296
+2023/12/25-23:03:09.653 312d Reusing old log /home/aruncs/.config/thorium/Default/Sync Data/LevelDB/000296.log 

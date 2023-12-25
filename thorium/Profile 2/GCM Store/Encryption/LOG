@@ -1,2 +1,3 @@
-2023/11/26-02:24:27.648 487 Creating DB /home/aruncs/.config/thorium/Profile 2/GCM Store/Encryption since it was missing.
-2023/11/26-02:24:27.652 487 Reusing MANIFEST /home/aruncs/.config/thorium/Profile 2/GCM Store/Encryption/MANIFEST-000001
+2023/12/24-21:04:37.390 3c1c Reusing MANIFEST /home/aruncs/.config/thorium/Profile 2/GCM Store/Encryption/MANIFEST-000001
+2023/12/24-21:04:37.390 3c1c Recovering log #3
+2023/12/24-21:04:37.392 3c1c Reusing old log /home/aruncs/.config/thorium/Profile 2/GCM Store/Encryption/000003.log 

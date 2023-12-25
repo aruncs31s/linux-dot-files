@@ -50,6 +50,3 @@ ksuperkey -e 'Super_R=Alt_L|F1' &
 ## User Friendly Bluetooth Menu
 #blueman-applet &
 
-## Help-App-Run-Once
-archcraft-help &
-sed -i -e '/## Help-App-Run-Once/Q' "$HOME"/.config/openbox/autostart

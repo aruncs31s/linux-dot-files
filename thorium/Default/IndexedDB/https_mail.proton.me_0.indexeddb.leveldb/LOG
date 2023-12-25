@@ -1,36 +1,25 @@
-2023/11/26-21:04:35.384 4a65 Reusing MANIFEST /home/aruncs/.config/thorium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
-2023/11/26-21:04:35.384 4a65 Recovering log #39
-2023/11/26-21:04:35.385 4a65 Reusing old log /home/aruncs/.config/thorium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000039.log 
-2023/11/26-21:04:35.385 4a65 Delete type=2 #38
-2023/11/26-21:04:35.708 4a68 Level-0 table #44: started
-2023/11/26-21:04:35.710 4a68 Level-0 table #44: 691 bytes OK
-2023/11/26-21:04:35.712 4a68 Delete type=0 #39
-2023/11/26-21:04:35.717 4a66 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0e\x00\x00\x05' @ 305 : 1
-2023/11/26-21:04:35.717 4a66 Compacting 1@0 + 1@1 files
-2023/11/26-21:04:35.722 4a66 Generated table #45@0: 15 keys, 831 bytes
-2023/11/26-21:04:35.722 4a66 Compacted 1@0 + 1@1 files => 831 bytes
-2023/11/26-21:04:35.726 4a66 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/11/26-21:04:35.726 4a66 Delete type=2 #44
-2023/11/26-21:04:35.727 4a66 Manual compaction at level-0 from '\x00\x0e\x00\x00\x05' @ 305 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/11/26-21:04:37.526 4a73 Level-0 table #47: started
-2023/11/26-21:04:37.528 4a73 Level-0 table #47: 692 bytes OK
-2023/11/26-21:04:37.534 4a73 Delete type=2 #41
-2023/11/26-21:04:37.534 4a73 Delete type=0 #43
-2023/11/26-21:04:37.535 4a65 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0f\x00\x00\x05' @ 322 : 1
-2023/11/26-21:04:37.535 4a65 Compacting 1@0 + 1@1 files
-2023/11/26-21:04:37.536 4a65 Generated table #48@0: 15 keys, 831 bytes
-2023/11/26-21:04:37.536 4a65 Compacted 1@0 + 1@1 files => 831 bytes
-2023/11/26-21:04:37.538 4a65 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/11/26-21:04:37.538 4a65 Delete type=2 #47
-2023/11/26-21:04:37.538 4a65 Manual compaction at level-0 from '\x00\x0f\x00\x00\x05' @ 322 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)
-2023/11/26-21:04:37.985 4a68 Level-0 table #50: started
-2023/11/26-21:04:37.986 4a68 Level-0 table #50: 692 bytes OK
-2023/11/26-21:04:37.987 4a68 Delete type=0 #46
-2023/11/26-21:04:37.987 4a68 Delete type=2 #45
-2023/11/26-21:04:37.987 4a65 Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x10\x00\x00\x05' @ 343 : 1
-2023/11/26-21:04:37.987 4a65 Compacting 1@0 + 1@1 files
-2023/11/26-21:04:37.988 4a65 Generated table #51@0: 15 keys, 831 bytes
-2023/11/26-21:04:37.988 4a65 Compacted 1@0 + 1@1 files => 831 bytes
-2023/11/26-21:04:37.989 4a65 compacted to: files[ 0 1 1 0 0 0 0 ]
-2023/11/26-21:04:37.990 4a65 Delete type=2 #50
-2023/11/26-21:04:37.990 4a65 Manual compaction at level-0 from '\x00\x10\x00\x00\x05' @ 343 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/25-23:03:50.417 3105 Reusing MANIFEST /home/aruncs/.config/thorium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/25-23:03:50.418 3105 Recovering log #176
+2023/12/25-23:03:50.418 3105 Reusing old log /home/aruncs/.config/thorium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000176.log 
+2023/12/25-23:03:52.252 3107 Manual compaction at level-0 from '\x008\x00\x00\x00' @ 72057594037927935 : 1 .. '\x009\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/25-23:03:54.649 3113 Level-0 table #181: started
+2023/12/25-23:03:54.652 3113 Level-0 table #181: 1182 bytes OK
+2023/12/25-23:03:54.653 3113 Delete type=0 #176
+2023/12/25-23:03:54.653 3104 Manual compaction at level-0 from '\x009\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at '\x009\x00\x00\x05' @ 1178 : 1
+2023/12/25-23:03:54.653 3104 Compacting 1@0 + 1@1 files
+2023/12/25-23:03:54.655 3104 Generated table #182@0: 20 keys, 661 bytes
+2023/12/25-23:03:54.655 3104 Compacted 1@0 + 1@1 files => 661 bytes
+2023/12/25-23:03:54.656 3104 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/25-23:03:54.656 3104 Delete type=2 #181
+2023/12/25-23:03:54.657 3104 Manual compaction at level-0 from '\x009\x00\x00\x05' @ 1178 : 1 .. '\x00:\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/12/25-23:03:54.659 3111 Level-0 table #184: started
+2023/12/25-23:03:54.663 3111 Level-0 table #184: 701 bytes OK
+2023/12/25-23:03:54.667 3111 Delete type=0 #180
+2023/12/25-23:03:54.667 3111 Delete type=2 #178
+2023/12/25-23:03:54.667 3107 Manual compaction at level-0 from '\x00:\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00;\x00\x00\x00' @ 0 : 0; will stop at '\x00:\x00\x00\x05' @ 1197 : 1
+2023/12/25-23:03:54.667 3107 Compacting 1@0 + 1@1 files
+2023/12/25-23:03:54.670 3107 Generated table #185@0: 20 keys, 662 bytes
+2023/12/25-23:03:54.670 3107 Compacted 1@0 + 1@1 files => 662 bytes
+2023/12/25-23:03:54.671 3107 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/25-23:03:54.672 3107 Delete type=2 #184
+2023/12/25-23:03:54.673 3107 Manual compaction at level-0 from '\x00:\x00\x00\x05' @ 1197 : 1 .. '\x00;\x00\x00\x00' @ 0 : 0; will stop at (end)

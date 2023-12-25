@@ -1,2 +1,3 @@
-2023/11/26-10:59:19.227 43e Creating DB /home/aruncs/.config/thorium/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb since it was missing.
-2023/11/26-10:59:19.229 43e Reusing MANIFEST /home/aruncs/.config/thorium/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/21-20:55:07.340 127a7 Reusing MANIFEST /home/aruncs/.config/thorium/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/21-20:55:07.340 127a7 Recovering log #3
+2023/12/21-20:55:07.376 127a7 Reusing old log /home/aruncs/.config/thorium/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000003.log 

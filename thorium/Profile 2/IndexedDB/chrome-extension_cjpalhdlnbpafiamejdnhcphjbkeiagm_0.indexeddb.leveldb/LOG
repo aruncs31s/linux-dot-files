@@ -1,2 +1,3 @@
-2023/11/25-20:54:44.037 485 Creating DB /home/aruncs/.config/thorium/Profile 2/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb since it was missing.
-2023/11/25-20:54:44.041 485 Reusing MANIFEST /home/aruncs/.config/thorium/Profile 2/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/24-21:04:38.283 3c28 Reusing MANIFEST /home/aruncs/.config/thorium/Profile 2/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/24-21:04:38.283 3c28 Recovering log #3
+2023/12/24-21:04:38.283 3c28 Reusing old log /home/aruncs/.config/thorium/Profile 2/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000003.log 

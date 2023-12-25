@@ -1,10 +1,9 @@
-<!-- Copyright (C) 2020-2023 Aditya Shakya <adi1090x@gmail.com> -->
 <?xml version="1.0" encoding="UTF-8"?>
 
 <channel name="xsettings" version="1.0">
   <property name="Net" type="empty">
-    <property name="ThemeName" type="string" value="Arc-Dark"/>
-    <property name="IconThemeName" type="string" value="Zafiro"/>
+    <property name="ThemeName" type="string" value="WhiteSur-Dark-nord"/>
+    <property name="IconThemeName" type="string" value="WhiteSur-dark"/>
     <property name="DoubleClickTime" type="empty"/>
     <property name="DoubleClickDistance" type="empty"/>
     <property name="DndDragThreshold" type="empty"/>
@@ -33,14 +32,17 @@
     <property name="MenuImages" type="bool" value="true"/>
     <property name="ButtonImages" type="bool" value="false"/>
     <property name="MenuBarAccel" type="empty"/>
-    <property name="CursorThemeName" type="string" value="Qogirr"/>
+    <property name="CursorThemeName" type="string" value="Future-Dark"/>
     <property name="CursorThemeSize" type="empty"/>
     <property name="DecorationLayout" type="empty"/>
+    <property name="DialogsUseHeader" type="empty"/>
+    <property name="TitlebarMiddleClick" type="empty"/>
   </property>
   <property name="Gdk" type="empty">
     <property name="WindowScalingFactor" type="int" value="1"/>
   </property>
   <property name="Xfce" type="empty">
     <property name="LastCustomDPI" type="int" value="96"/>
+    <property name="SyncThemes" type="bool" value="true"/>
   </property>
 </channel>

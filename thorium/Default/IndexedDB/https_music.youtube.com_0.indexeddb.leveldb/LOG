@@ -1,2 +1,15 @@
-2023/11/26-11:30:49.734 43e Creating DB /home/aruncs/.config/thorium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb since it was missing.
-2023/11/26-11:30:49.747 43e Reusing MANIFEST /home/aruncs/.config/thorium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/17-22:59:52.664 1287 Reusing MANIFEST /home/aruncs/.config/thorium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/17-22:59:52.664 1287 Recovering log #4
+2023/12/17-22:59:52.672 1287 Reusing old log /home/aruncs/.config/thorium/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/12/17-23:02:24.949 127c Level-0 table #8: started
+2023/12/17-23:02:24.955 127c Level-0 table #8: 254714 bytes OK
+2023/12/17-23:02:24.957 127c Delete type=0 #4
+2023/12/17-23:02:24.957 127c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/12/17-23:02:24.957 127c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x02\x1f\x03\x00\xa0\x0a<\x8d\xc7xB\x00\x03\x00\x00\x00\x00\x00\x00.@' @ 5953 : 1
+2023/12/17-23:02:24.957 127c Compacting 1@1 + 1@2 files
+2023/12/17-23:02:24.964 127c Generated table #9@1: 399 keys, 29854 bytes
+2023/12/17-23:02:24.964 127c Compacted 1@1 + 1@2 files => 29854 bytes
+2023/12/17-23:02:24.965 127c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/17-23:02:24.966 127c Delete type=2 #5
+2023/12/17-23:02:24.966 127c Delete type=2 #8
+2023/12/17-23:02:24.966 127c Manual compaction at level-1 from '\x00\x07\x02\x1f\x03\x00\xa0\x0a<\x8d\xc7xB\x00\x03\x00\x00\x00\x00\x00\x00.@' @ 5953 : 1 .. (end); will stop at (end)

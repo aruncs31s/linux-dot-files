@@ -8,7 +8,7 @@ XF86RFKill
 	systemctl hibernate
 
 super + F1 
-		alacritty
+		alacritty -e fzfnvim
 
 super + shift + x
 		betterlockscreen --suspend

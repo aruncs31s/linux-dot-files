@@ -1,14 +1,26 @@
-2023/11/25-20:54:43.931 485 Creating DB /home/aruncs/.config/thorium/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
-2023/11/25-20:54:43.935 485 Reusing MANIFEST /home/aruncs/.config/thorium/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2023/11/25-20:54:45.395 487 Level-0 table #5: started
-2023/11/25-20:54:45.427 487 Level-0 table #5: 1856309 bytes OK
-2023/11/25-20:54:45.431 487 Delete type=0 #3
-2023/11/25-20:55:18.058 494 Level-0 table #7: started
-2023/11/25-20:55:18.093 494 Level-0 table #7: 1718029 bytes OK
-2023/11/25-20:55:18.094 494 Delete type=0 #4
-2023/11/25-20:55:25.943 487 Level-0 table #9: started
-2023/11/25-20:55:26.042 487 Level-0 table #9: 1957671 bytes OK
-2023/11/25-20:55:26.044 487 Delete type=0 #6
-2023/11/25-20:55:55.505 487 Level-0 table #11: started
-2023/11/25-20:55:55.612 487 Level-0 table #11: 1796165 bytes OK
-2023/11/25-20:55:55.616 487 Delete type=0 #8
+2023/12/24-21:04:38.009 3c1c Reusing MANIFEST /home/aruncs/.config/thorium/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2023/12/24-21:04:38.009 3c1c Recovering log #10
+2023/12/24-21:04:38.020 3c1c Reusing old log /home/aruncs/.config/thorium/Profile 2/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000010.log 
+2023/12/24-21:05:00.741 3c1c Level-0 table #14: started
+2023/12/24-21:05:00.865 3c1c Level-0 table #14: 2273184 bytes OK
+2023/12/24-21:05:00.877 3c1c Delete type=0 #10
+2023/12/24-21:05:22.308 3c1d Level-0 table #16: started
+2023/12/24-21:05:22.352 3c1d Level-0 table #16: 1953299 bytes OK
+2023/12/24-21:05:22.354 3c1d Delete type=0 #13
+2023/12/24-21:05:22.355 3c1d Compacting 4@0 + 1@1 files
+2023/12/24-21:05:22.412 3c1d Generated table #17@0: 11 keys, 2615627 bytes
+2023/12/24-21:05:22.457 3c1d Generated table #18@0: 11 keys, 2268710 bytes
+2023/12/24-21:05:22.467 3c1d Generated table #19@0: 5 keys, 129726 bytes
+2023/12/24-21:05:22.467 3c1d Compacted 4@0 + 1@1 files => 5014063 bytes
+2023/12/24-21:05:22.468 3c1d compacted to: files[ 0 3 1 0 0 0 0 ]
+2023/12/24-21:05:22.469 3c1d Delete type=2 #11
+2023/12/24-21:05:22.469 3c1d Delete type=2 #14
+2023/12/24-21:05:22.469 3c1d Delete type=2 #7
+2023/12/24-21:05:22.469 3c1d Delete type=2 #9
+2023/12/24-21:05:22.469 3c1d Delete type=2 #16
+2023/12/24-21:05:35.281 3c1d Level-0 table #21: started
+2023/12/24-21:05:35.404 3c1d Level-0 table #21: 1127270 bytes OK
+2023/12/24-21:05:35.410 3c1d Delete type=0 #15
+2023/12/24-21:07:35.868 3c1d Level-0 table #23: started
+2023/12/24-21:07:35.935 3c1d Level-0 table #23: 3100736 bytes OK
+2023/12/24-21:07:35.936 3c1d Delete type=0 #20

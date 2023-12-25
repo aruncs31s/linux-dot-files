@@ -1,3 +1,24 @@
-2023/11/29-21:45:44.174 3 Reusing MANIFEST /home/aruncs/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
-2023/11/29-21:45:44.179 3 Recovering log #66
-2023/11/29-21:45:44.180 3 Reusing old log /home/aruncs/.config/thorium/Default/Local Storage/leveldb/000066.log 
+2023/12/25-23:20:08.794 3 Reusing MANIFEST /home/aruncs/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/12/25-23:20:08.796 3 Recovering log #446
+2023/12/25-23:20:08.797 3 Reusing old log /home/aruncs/.config/thorium/Default/Local Storage/leveldb/000446.log 
+2023/12/25-23:21:11.928 4 Level-0 table #451: started
+2023/12/25-23:21:11.943 4 Level-0 table #451: 20126 bytes OK
+2023/12/25-23:21:11.947 4 Delete type=0 #446
+2023/12/25-23:32:15.903 4 Level-0 table #453: started
+2023/12/25-23:32:15.951 4 Level-0 table #453: 35124 bytes OK
+2023/12/25-23:32:15.958 4 Delete type=0 #450
+2023/12/25-23:32:35.937 4 Level-0 table #455: started
+2023/12/25-23:32:35.959 4 Level-0 table #455: 25096 bytes OK
+2023/12/25-23:32:35.976 4 Delete type=0 #452
+2023/12/25-23:33:26.138 3 Level-0 table #457: started
+2023/12/25-23:33:26.157 3 Level-0 table #457: 24837 bytes OK
+2023/12/25-23:33:26.165 3 Delete type=0 #454
+2023/12/25-23:33:26.167 3 Compacting 4@0 + 1@1 files
+2023/12/25-23:33:26.241 3 Generated table #458@0: 1747 keys, 651737 bytes
+2023/12/25-23:33:26.242 3 Compacted 4@0 + 1@1 files => 651737 bytes
+2023/12/25-23:33:26.245 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/25-23:33:26.249 3 Delete type=2 #455
+2023/12/25-23:33:26.253 3 Delete type=2 #448
+2023/12/25-23:33:26.254 3 Delete type=2 #453
+2023/12/25-23:33:26.254 3 Delete type=2 #451
+2023/12/25-23:33:26.254 3 Delete type=2 #457

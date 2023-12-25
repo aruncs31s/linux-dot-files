@@ -1,3 +1,3 @@
-2023/11/26-10:38:05.502 3 Reusing MANIFEST /home/aruncs/.config/thorium/System Profile/Local Storage/leveldb/MANIFEST-000001
-2023/11/26-10:38:05.504 3 Recovering log #3
-2023/11/26-10:38:05.504 3 Reusing old log /home/aruncs/.config/thorium/System Profile/Local Storage/leveldb/000003.log 
+2023/11/29-23:44:18.408 3 Reusing MANIFEST /home/aruncs/.config/thorium/System Profile/Local Storage/leveldb/MANIFEST-000001
+2023/11/29-23:44:18.412 3 Recovering log #3
+2023/11/29-23:44:18.415 3 Reusing old log /home/aruncs/.config/thorium/System Profile/Local Storage/leveldb/000003.log 

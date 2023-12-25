@@ -1,2 +1,3 @@
-2023/11/18-01:13:06.131 2393f Creating DB /home/aruncs/.config/thorium/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi since it was missing.
-2023/11/18-01:13:06.135 2393f Reusing MANIFEST /home/aruncs/.config/thorium/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi/MANIFEST-000001
+2023/12/25-23:03:10.713 3104 Reusing MANIFEST /home/aruncs/.config/thorium/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi/MANIFEST-000001
+2023/12/25-23:03:10.713 3104 Recovering log #3
+2023/12/25-23:03:10.714 3104 Reusing old log /home/aruncs/.config/thorium/Default/Local Extension Settings/ghbmnnjooekpmoecnnnilnnbdlolhkhi/000003.log 

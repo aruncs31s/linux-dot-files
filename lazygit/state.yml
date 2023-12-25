@@ -1,7 +1,9 @@
 lastupdatecheck: 0
 recentrepos:
-- /home/aruncs/.config
 - /home/aruncs/.config/i3
+- /home/aruncs/Git/linux-dot-files
+- /home/aruncs/Notes
+- /home/aruncs/.config
 startuppopupversion: 5
 customcommandshistory: []
 hidecommandlog: false
