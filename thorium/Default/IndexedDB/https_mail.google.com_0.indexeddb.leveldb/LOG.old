@@ -1,9 +1,0 @@
-2023/12/12-10:41:39.638 9668d Reusing MANIFEST /home/aruncs/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/12/12-10:41:39.638 9668d Recovering log #11
-2023/12/12-10:41:39.641 9668d Reusing old log /home/aruncs/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000011.log 
-2023/12/12-10:41:43.887 96690 Compacting 1@1 + 1@2 files
-2023/12/12-10:41:43.931 96690 Generated table #14@1: 186 keys, 415060 bytes
-2023/12/12-10:41:43.931 96690 Compacted 1@1 + 1@2 files => 415060 bytes
-2023/12/12-10:41:43.935 96690 compacted to: files[ 0 0 1 0 0 0 0 ]
-2023/12/12-10:41:43.935 96690 Delete type=2 #9
-2023/12/12-10:41:43.936 96690 Delete type=2 #12

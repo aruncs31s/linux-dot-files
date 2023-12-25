@@ -1,6 +1,0 @@
-2023/12/25-23:20:08.805 5081 Reusing MANIFEST /home/aruncs/.config/thorium/Default/Sync Data/LevelDB/MANIFEST-000001
-2023/12/25-23:20:08.805 5081 Recovering log #296
-2023/12/25-23:20:08.806 5081 Reusing old log /home/aruncs/.config/thorium/Default/Sync Data/LevelDB/000296.log 
-2023/12/25-23:22:20.821 5074 Level-0 table #300: started
-2023/12/25-23:22:20.836 5074 Level-0 table #300: 101107 bytes OK
-2023/12/25-23:22:20.837 5074 Delete type=0 #296

@@ -1,7 +1,0 @@
-2023/12/22-19:48:27.413 61ca3 Reusing MANIFEST /home/aruncs/.config/thorium/Default/IndexedDB/https_account.proton.me_0.indexeddb.leveldb/MANIFEST-000001
-2023/12/22-19:48:27.413 61ca3 Recovering log #3
-2023/12/22-19:48:27.413 61ca3 Reusing old log /home/aruncs/.config/thorium/Default/IndexedDB/https_account.proton.me_0.indexeddb.leveldb/000003.log 
-2023/12/22-19:48:30.938 61ca4 Level-0 table #5: started
-2023/12/22-19:48:30.941 61ca4 Level-0 table #5: 2788 bytes OK
-2023/12/22-19:48:30.944 61ca4 Delete type=0 #3
-2023/12/22-19:48:30.945 61ca4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
