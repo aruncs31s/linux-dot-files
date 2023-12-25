@@ -1,0 +1,3 @@
+[submodule "archCraft/i3"]
+	path = archCraft/i3
+	url = https://github.com/aruncs31s/archcraft_i3wm_config

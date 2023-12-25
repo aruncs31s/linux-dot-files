@@ -1,0 +1,50 @@
+sw_volume: 72
+audio_device_state:1:pulse audio
+audio_device_state:0:my_fifo
+state: pause
+current: 34
+time: 180.942000
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:1only/1nonly - Ash Kaashh.mp3
+1:1only/1nonly - Bunny Girl.mp3
+2:1only/1nonly - Come Thru (feat. Shady Moon & Ciscaux).mp3
+3:1only/1nonly - Shut It.mp3
+4:1only/1nonly - Zoom!.mp3
+5:Yt/Adam Oh - Trapped In My Mind (Lyrics ⧸ Lyric Video) [I-l_fSV2PtQ].opus
+6:Yt/Beautiful People (feat. Khalid) [6v8BmMirkUk].mp3
+7:Yt/Bebe Rexha - I'm A Mess [Official Music Video] [LdH7aFjDzjI].mp3
+8:Yt/Cruel Summer [aC9HkZW2hZk].mp3
+9:Yt/JAWAN： Chaleya (Hindi) ｜ Shah Rukh Khan ｜ Nayanthara ｜ Atlee ｜ Anirudh ｜ Arijit S, Shilpa R ｜ Kumaar [VAdGW7QDJiU].opus
+10:Yt/XXXTENTACION & Blackbear ⧸⧸ Spider-Man [39C1vO6vWzY].mp3
+11:Yt/Wildest Dreams (Taylor's Version) [bhnaPBK9nOQ].mp3
+12:Yt/TALK - Run Away to Mars (Lyrics) [X89yw3J-a_s].mp3
+13:Yt/Say You Won't Let Go [TUnEJM6W-Fw].mp3
+14:Yt/Rxseboy - Memory [feat. SadBoyProlific] (Lyrics) [XUin-dRL9-s].mp3
+15:Yt/Raftaar x Brodha V - Naachne Ka Shaunq [QvswgfLDuPg].opus
+16:Yt/One Last Time [KEGZVv6KXL0].mp3
+17:Yt/Me, Myself & I [6wCe1Iv-a5E].mp3
+18:Yt/Lewis Capaldi - Before You Go [cHO1fDKLbVU].mp3
+19:SDCARD/Eminem/The_Warning_-_Eminem_Music_Lyric_(getmp3.pro).mp3
+20:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - Bad Guy.mp3
+21:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - Parking Lot.mp3
+22:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - So Much Better.mp3
+23:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - Rhyme Or Reason.mp3
+24:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - Survival.mp3
+25:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - Asshole.mp3
+26:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - Berzerk.mp3
+27:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - Rap God.mp3
+28:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - Brainless.mp3
+29:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - Stronger Than I Was.mp3
+30:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - The Monster.mp3
+31:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - Love Game.mp3
+32:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - So Far....mp3
+33:SDCARD/Eminem/The Marshall Mathers LP2 (Deluxe)/Eminem - Headlights.mp3
+34:SDCARD/Eminem/Tech N9ne - Speedom (Wwc2).mp3
+playlist_end
