@@ -8,8 +8,7 @@ XF86RFKill
 	systemctl hibernate
 
 super + F1 
-		alacritty -e fzfnvim
-
+			xfce4-terminal --drop-down
 super + shift + x
 		betterlockscreen --suspend
 
@@ -66,7 +65,7 @@ super + shift + {f,w,e}
 
 # Terminal Apps
 super + shift +{n,r}
-	alacritty --config-file ~/.config/bspwm/alacritty/alacritty.yml -e {nvim,ranger,htop}
+	alacritty --config-file ~/.config/bspwm/alacritty/alacritty.toml -e {nvim,ranger,htop}
 
 ctrl + alt + {v,r,h}
 	alacritty --config-file ~/.config/bspwm/alacritty/alacritty.yml -e {vim,ranger,htop}

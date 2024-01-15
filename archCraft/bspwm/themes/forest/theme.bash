@@ -29,7 +29,7 @@ light_value='0.05'
 dark_value='0.30'
 
 # Wallpaper
-wdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+wdir="$(cd "$(dirname "${BASH_SOURCE[0]}")" &>/dev/null && pwd)"
 wallpaper="$wdir/wallpaper"
 
 # Polybar
@@ -51,7 +51,7 @@ geany_font='JetBrains Mono 10'
 gtk_font='Noto Sans 9'
 gtk_theme='Adapta-Nokto'
 icon_theme='Archcraft-Dark'
-cursor_theme='Pear'
+cursor_theme='Layan'
 
 # Dunst
 dunst_width='300'
