@@ -1,0 +1,3 @@
+AP-Weather-Blue.conkyrc
+JA-Phone-Year-Gray.conkyrc
+
