@@ -70,7 +70,7 @@ zstyle ':omz:update' mode disabled  # disable automatic updates
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git zsh-autosuggestions fancy-ctrl-z fzf-tab )
+plugins=(git zsh-autosuggestions fancy-ctrl-z fzf-tab vi-mode )
 #vi-mode
 
 source $ZSH/oh-my-zsh.sh
@@ -136,6 +136,12 @@ alias gi='git init'
 alias ga='git add'
 alias gc='git commit -m'
 alias gp='git push origin master'
+
+# Tmux aliases
+
+alias tr='tmux rename '
+alias ta='tmux attach '
+alias ts='tmux switch -t '
 
 alias yt22='yt-dlp -f 22 '
 alias google='w3m https://google.com/search\?q\= '
