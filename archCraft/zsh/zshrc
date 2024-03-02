@@ -2,6 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
+export PATH=/usr/lib/jvm/default/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
 export ZSH=$HOME/.oh-my-zsh
 export EDITOR=nvim
 # Set name of the theme to load --- if set to "random", it will
@@ -138,6 +139,7 @@ alias gc='git commit -m'
 alias gp='git push origin master'
 
 # Tmux aliases
+#
 alias t='tmux '
 alias tr='tmux rename '
 alias ta='tmux attach '
@@ -272,3 +274,5 @@ eval "$(zoxide init --cmd cd zsh)"
 # Initialize custom fzf tab
 # . ~/.zsh_fzf
 # zstyle ':fzf-tab:complete:cd:*' fzf-preview 'eza -1 --color=always $realpath' # remember to use single quote here!!!``
+
+
