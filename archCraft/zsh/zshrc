@@ -142,7 +142,7 @@ alias gp='git push origin main'
 #
 alias t='tmux '
 alias tr='tmux rename '
-alias ta='tmux attach -t '
+alias ta='tmux new-session -A -s '
 alias ts='tmux switch -t '
 alias tn='tmux new -s '
 
