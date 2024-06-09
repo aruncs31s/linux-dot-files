@@ -287,4 +287,3 @@ alias play='vlc "$(fzf)"'
 
 
 bash ~/Scripts/unix
-echo "If you're fast then you're fkn slow"
