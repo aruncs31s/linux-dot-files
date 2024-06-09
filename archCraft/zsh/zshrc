@@ -284,3 +284,5 @@ eval "$(fzf --zsh)"
 
 alias yt22='yt-dlp -f 232+140'
 alias play='vlc "$(fzf)"'
+
+echo "If you're fast then you're fkn slow"
