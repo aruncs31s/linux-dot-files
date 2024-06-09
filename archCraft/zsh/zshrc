@@ -286,5 +286,5 @@ alias yt22='yt-dlp -f 232+140'
 alias play='vlc "$(fzf)"'
 
 
-./$HOMEScripts/unix
+bash ~/Scripts/unix
 echo "If you're fast then you're fkn slow"
