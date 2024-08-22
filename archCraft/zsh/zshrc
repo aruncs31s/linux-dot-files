@@ -6,6 +6,10 @@ export PATH=/usr/lib/jvm/default/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/us
 export ZSH=$HOME/.oh-my-zsh
 export EDITOR=nvim
 export BROWSER='/usr/bin/vivaldi'
+
+# for scitopdf
+export READER=atril
+
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
@@ -286,4 +290,8 @@ alias yt22='yt-dlp -f 232+140'
 alias play='vlc "$(fzf)"'
 
 
-bash ~/Scripts/unix
+# bash ~/Scripts/unix
+alias vplay='mpv --ytdl-format=best '
+### Vim Like Keybinding
+# bindkey -v 
+fortune|cowsay
