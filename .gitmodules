@@ -16,3 +16,9 @@
 [submodule "archCraft/xfce4"]
 	path = archCraft/xfce4
 	url = https://github.com/aruncs31s/archcraft_xfce4_config
+[submodule "archCraft/openbox"]
+	path = archCraft/openbox
+	url = https://github.com/aruncs31s/archcraft_openbox_config
+[submodule "archCraft/dwm"]
+	path = archCraft/dwm
+	url = https://github.com/aruncs31s/archcraft_dwm_config
