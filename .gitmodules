@@ -7,3 +7,9 @@
 [submodule "archCraft/nvim/lua/user"]
 	path = archCraft/nvim/lua/user
 	url = https://github.com/aruncs31s/astronvim_config
+[submodule "archCraft/archcraft_bspwm_config"]
+	path = archCraft/archcraft_bspwm_config
+	url = https://github.com/aruncs31s/archcraft_bspwm_config
+[submodule "archCraft/archcraft_i3wm_config"]
+	path = archCraft/archcraft_i3wm_config
+	url = https://github.com/aruncs31s/archcraft_i3wm_config
