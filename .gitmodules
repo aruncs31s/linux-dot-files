@@ -13,3 +13,6 @@
 [submodule "archCraft/archcraft_i3wm_config"]
 	path = archCraft/archcraft_i3wm_config
 	url = https://github.com/aruncs31s/archcraft_i3wm_config
+[submodule "archCraft/xfce4"]
+	path = archCraft/xfce4
+	url = https://github.com/aruncs31s/archcraft_xfce4_config
